@@ -6,7 +6,7 @@ import math
 getcontext().prec = 3   #setting presicion of scientific notation
 
 
-#defininig classes
+#defining classes
 class wave:
 
     def __init__(self, wavelength, ni, Ef):
